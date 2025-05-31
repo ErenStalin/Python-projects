@@ -1,29 +1,33 @@
 # Python Project 🚀
 
-This repository contains a collection of beginner-friendly Python mini projects created as part of my learning journey.
+This repository contains a collection of beginner-level to intermediate Python projects that I’m building as part of my learning journey toward a data and automation-focused role.
 
-Each script is written and tested on a Linux machine, and focuses on improving my skills in:
-
-- ✅ Python basics (input, loops, functions)
-- ✅ Error handling
-- ✅ Logic building
-- ✅ Command-line tools
-- ✅ Clean code and readability
+Each project is stored in its own folder and includes:
+- Clean, well-commented Python code
+- Problem description and learning goals
+- Screenshots or sample output (where relevant)
 
 ---
 
-## 📁 Project List
+## 🧠 Goals of This Repository
 
-### 1. 🧮 Multiplication Table Generator
-- **File:** `multiplication_table.py`
-- **Description:** Asks the user for a number and prints its multiplication table from 1 to 10. Includes error handling for non-numeric input.
-- **Skills:** `input()`, `for loop`, `try-except`, `f-strings`
+- Practice Python basics and logical thinking
+- Improve coding habits and readability
+- Learn how to work with files, data, and simple automations
+- Showcase my hands-on learning using Linux + Python
 
 ---
 
-## 💻 How to Run
+🛠️ Tools Used
+Python 3
+Linux (Ubuntu-based)
+Git & GitHub
+VS Code / Nano Editor
 
-Make sure you have Python installed.
+📬 Connect With Me
+I’m learning in public and sharing my journey.
+Let’s connect and grow together!
 
-```bash
-python3 multiplication_table.py
+LinkedIn : https://www.linkedin.com/in/anthony-stalin13/
+
+GitHub : https://github.com/ErenStalin
